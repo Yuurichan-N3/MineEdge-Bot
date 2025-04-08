@@ -53,7 +53,7 @@ Sebelum memulai, pastikan Anda memiliki:
 1. **Jalankan Script**
    Dari terminal, ketik:
    ```bash
-   python mineedge_bot.py
+   python bot.py
    ```
 
 2. **Ikuti Prompt**
