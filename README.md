@@ -74,7 +74,7 @@ Sebelum memulai, pastikan Anda memiliki:
 ---
 
 ## 📂 Struktur File
-- `mineedge_bot.py`: Script utama
+- `bot.py`: Script utama
 - `data.txt`: File input berisi initData (harus dibuat manual)
 - `README.md`: Dokumentasi ini
 
